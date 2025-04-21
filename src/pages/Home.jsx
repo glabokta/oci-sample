@@ -43,7 +43,7 @@ const Home = () => {
   return (
     <div>
       <div>
-        <Header as="h1">Streamward Auto & Boat Insurance</Header>
+        <Header as="h1">Profile Management Settings</Header>
 
         { authState.isAuthenticated && !userInfo
         && <div>Loading user information...</div>}
@@ -76,9 +76,9 @@ const Home = () => {
 
         </div>
         )}
-          <h1>Drive & Sail with Confidence</h1>
-          <p>Comprehensive Auto and Boat Insurance Tailored to Your Needs.</p>
-          <a href="#" class="cta-button">Get A Free Quote</a>
+          <h1>Endpoint Privilege Management</h1>
+          <p>Enforce least privilege dynamically to prevent malware, ransomware, and identity-based attacks, achieve compliance across Windows, macOS, and Linux endpoints, and enable your zero trust strategy — without compromising on productivity.</p>
+          <a href="#" class="cta-button">Request 1:1 Demo</a>
           <br></br>
           <br></br>
           <br></br>

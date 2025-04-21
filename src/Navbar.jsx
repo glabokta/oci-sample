@@ -30,7 +30,7 @@ const Navbar = () => {
       <Menu fixed="top" inverted>
         <Container>
           <Menu.Item header>
-            <Link to="/"><Image size="tiny" src="/streamwardlogo.png" /></Link>
+            <Link to="/"><Image size="tiny" src="/beyondinsight.png" /></Link>
             &nbsp;
           </Menu.Item>
           {authState.isAuthenticated && (

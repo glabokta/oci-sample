@@ -26,21 +26,21 @@ top-header {
 }
 
 .ui.inverted.menu {
-  background-color: #f7f3f3;
+  background-color: #8f8f8f;
 }
 
 .ui.inverted.menu a.item:hover  {
-  color: #f7f3f3;
+  color: #8f8f8f;
   background-color: #a4bfbf;
 }
 
 .ui.inverted.menu div.item:hover {
-  color: #f7f3f3;
+  color: #8f8f8f;
   background: #a4bfbf;
 }
 
 a:hover {
-  color: #f7f3f3;
+  color: #8f8f8f;
 }
 
 .ui.inverted.menu .item, .ui.inverted.menu .item > a:not(.ui) {
@@ -54,11 +54,11 @@ a:hover {
 }
 
 .ui.inverted.menu.hidden a.item:hover  {
-  color: #f7f3f3;
+  color: #8f8f8f;
   background-color: #e8f3cb;
 }
 
 .ui.inverted.menu.hidden div.item:hover {
-  color: #f7f3f3;
+  color: #8f8f8f;
   background: #a4bfbf;
 }
