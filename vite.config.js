@@ -1,7 +1,7 @@
 import { defineConfig } from 'vite'
 import react from '@vitejs/plugin-react'
 import path from 'path';
-import getEnvModule from './env'
+import getEnvModule from '.okta.env'
 import dns from 'dns'
 
 dns.setDefaultResultOrder('verbatim')
